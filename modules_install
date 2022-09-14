@@ -1,0 +1,3 @@
+#!/bin/bash
+
+npm i dotenv express fs-extra ioredis luxon mqtt mysql onoff python-shell serialport && npm i "touch"
